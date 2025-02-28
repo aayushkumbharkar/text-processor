@@ -1,7 +1,7 @@
 site_name: Text Processor Docs
-site_url: https://your-docs-site.com
-repo_url: https://github.com/aayushkumbharkar/text-processor
-edit_uri: edit/main/docs/
+repo_url: "https://github.com/aayushkumbharkar/text-processor"
+repo_name: "text-processor"
+site_url: "https://aayushkumbharkar.github.io/text-processor/"
 
 theme:
   name: material
