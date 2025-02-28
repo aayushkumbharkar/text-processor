@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.  
+This is a example text file for testing the Python script.  
+The word "sample" appears multiple times in this file.  
+Let's check how many times the word "sample" is used.  
+Text processing is an essential part of data science.  

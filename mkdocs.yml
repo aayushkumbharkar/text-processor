@@ -1,0 +1,65 @@
+site_name: Text Processor Docs
+site_url: https://your-docs-site.com
+repo_url: https://github.com/aayushkumbharkar/text-processor
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - User Guide:
+      - Command Line Tools: command_line_tools.md
+      - Processing Text Files: process_text_file.md
+      - Using Direct Input: direct_input.md
+  - API Reference: api.md
+  - FAQ: faq.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.mark
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/aayushkumbharkar
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aayush-kumbharkar/
+
+plugins:
+  - search
+  - mkdocstrings
+  - autorefs
