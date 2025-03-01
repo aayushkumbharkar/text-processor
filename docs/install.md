@@ -9,5 +9,5 @@ Follow these steps to install and run the Text Processor Tool:
 ## 2️⃣ Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/text_processor.git
+   git clone  https://github.com/aayushkumbharkar/text_processor.git
    cd text_processor
