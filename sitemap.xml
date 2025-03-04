@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://your-docs-site.com/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/api/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/api/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/changelog/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/changelog/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/command_line_tools/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/command_line_tools/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/contributing/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/contributing/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/direct_input/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/direct_input/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/faq/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/faq/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/install/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/install/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
-         <loc>https://your-docs-site.com/process_text_file/</loc>
-         <lastmod>2025-02-28</lastmod>
+         <loc>https://aayushkumbharkar.github.io/text-processor/process_text_file/</loc>
+         <lastmod>2025-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://aayushkumbharkar.github.io/text-processor/screenshots/</loc>
+         <lastmod>2025-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://aayushkumbharkar.github.io/text-processor/video_demo/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
 </urlset>
