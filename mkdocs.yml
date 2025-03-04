@@ -1,7 +1,14 @@
 site_name: Text Processor Docs
+<<<<<<< HEAD
 repo_url: "https://github.com/aayushkumbharkar/text-processor"
 repo_name: "text-processor"
 site_url: "https://aayushkumbharkar.github.io/text-processor/"
+=======
+site_url: https://aayushkumbharkar.github.io/text-processor/
+
+repo_url: https://github.com/aayushkumbharkar/text-processor
+edit_uri: edit/main/docs/
+>>>>>>> 51484c7 (Added video and images to MkDocs)
 
 theme:
   name: material
@@ -30,6 +37,9 @@ nav:
       - Command Line Tools: command_line_tools.md
       - Processing Text Files: process_text_file.md
       - Using Direct Input: direct_input.md
+  - Demo:
+      - Watch Video: video_demo.md
+      - Screenshots: screenshots.md
   - API Reference: api.md
   - FAQ: faq.md
   - Contributing: contributing.md
@@ -37,7 +47,7 @@ nav:
 
 markdown_extensions:
   - toc:
-      permalink: true
+        permalink: true
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.superfences
